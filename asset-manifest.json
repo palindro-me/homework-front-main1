@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palindro-me/homework-front-main1/static/css/main.f855e6bc.css",
-    "main.js": "/palindro-me/homework-front-main1/static/js/main.ae705c77.js",
-    "static/js/399.5246f0b9.chunk.js": "/palindro-me/homework-front-main1/static/js/399.5246f0b9.chunk.js",
-    "index.html": "/palindro-me/homework-front-main1/index.html",
-    "main.f855e6bc.css.map": "/palindro-me/homework-front-main1/static/css/main.f855e6bc.css.map",
-    "main.ae705c77.js.map": "/palindro-me/homework-front-main1/static/js/main.ae705c77.js.map",
-    "399.5246f0b9.chunk.js.map": "/palindro-me/homework-front-main1/static/js/399.5246f0b9.chunk.js.map"
+    "main.css": "/homework-front-main1/1/static/css/main.f855e6bc.css",
+    "main.js": "/homework-front-main1/1/static/js/main.a3e5adce.js",
+    "static/js/399.5246f0b9.chunk.js": "/homework-front-main1/1/static/js/399.5246f0b9.chunk.js",
+    "index.html": "/homework-front-main1/1/index.html",
+    "main.f855e6bc.css.map": "/homework-front-main1/1/static/css/main.f855e6bc.css.map",
+    "main.a3e5adce.js.map": "/homework-front-main1/1/static/js/main.a3e5adce.js.map",
+    "399.5246f0b9.chunk.js.map": "/homework-front-main1/1/static/js/399.5246f0b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ae705c77.js"
+    "static/js/main.a3e5adce.js"
   ]
 }
